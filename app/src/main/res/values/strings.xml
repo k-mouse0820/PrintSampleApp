@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">印刷サンプルアプリ</string>
+
+
+    <string name="msg_connecting">接続中...</string>
+    <string name="msg_bt_not_available">このデバイスではBluetoothが利用できません</string>
+    <string name="msg_scanner_connected">スキャナーと接続しました</string>
+    <string name="msg_scanner_disconnected">スキャナーを接続解除しました</string>
+    <string name="msg_scanner_connection_failed">スキャナーとの接続に失敗しました</string>
+
+
+    <string name="hinbanData">品番データ</string>
+    <string name="hinmeiData">品名データ</string>
+    <string name="siiresakiData">仕入先データ</string>
+    <string name="qrcodeData">QRCODE</string>
+    <string name="bluetoothPairingList">Bluetoothペアリング一覧</string>
+    <string name="connectButton">接続</string>
+    <string name="printButton">印刷</string>
+    <string name="msg_connectingPrinter">プリンタに接続しています...</string>
+    <string name="msg_executingPrint">印刷しています...</string>
+    <string name="wait">しばらくお待ちください.</string>
+    <string name="endPrint">印刷終了</string>
+    <string name="error">エラー</string>
+    <string name="processComplete">処理完了</string>
+    <string name="statusReception"> OnStatus受信</string>
+    <string name="confirmBack">前画面に戻りますか？</string>
+    <string name="msg_selectBluetoothDevice">プリンタを選択してください</string>
+    <string name="msg_NoPaireddevice">No paired devices found</string>
+    <string name="bdAddrNotSet">BD Addressが選択されていません。</string>
+    <string name="msg_OpenPorterror">Open Port Error</string>
+    <string name="msg_PortCloseErrorcode">Port Close Error code</string>
+    <string name="msg_PortCloseSuccess">Port Close Success</string>
+    <string name="msg_success">Success</string>
+    <string name="msg_RetryError">RetryError</string>
+    <string name="msg_Ok">はい</string>
+    <string name="msg_No">いいえ</string>
+    <string name="msg_executePrintError">Execute Print Error</string>
+    <string name="noResponseFromPrinter">プリンタからの応答がありません。\n処理を継続しますか？</string>
+    <string name="writeFailed">プリンタへの書き込みに失敗しました。\n処理を継続しますか？</string>
+    <string name="paperEnd">用紙が終了しました。\n処理を継続しますか？</string>
+    <string name="issueEndAndpaperEnd">用紙が終了しました。\n処理を継続しますか？</string>
+    <string name="alert_AppExit">アプリを終了してもよろしいですか？</string>
+
+
+</resources>
